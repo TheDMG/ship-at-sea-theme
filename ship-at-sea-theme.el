@@ -6,7 +6,7 @@
 ;; URL: https://github.com/TheDMG/ship-at-sea-theme
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "27.1"))
-;; Keywords: ship-at-sea, sailor-at-sea, emacs-theme, faces, theme, dark, nautical
+;; Keywords: faces, theme
 ;; SPDX-License-Identifier: MIT
 
 ;; This file is not part of GNU Emacs.
@@ -33,11 +33,8 @@
 
 ;; To use this theme, add it to your load-path and call:
 ;;   (load-theme 'ship-at-sea t)
-
-;;; Credits:
-
-;; Thanks to Rikkarth for the original "Sailor at Sea" VS Code theme,
-;; which this theme is based on:
+;;
+;; Credits: Based on the "Sailor at Sea" VS Code theme by Rikkarth
 ;; https://github.com/rikkarth/ship-at-sea
 
 ;;; Code:
